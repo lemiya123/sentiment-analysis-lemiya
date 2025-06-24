@@ -29,7 +29,7 @@ This app analyzes product reviews and classifies them as Positive 😊, Negative
    ```bash
    git clone https://github.com/lemiya123/sentiment-analysis-lemiya.git
 2. Navigate to project directory:
-   cd sentiment-analysis-lemiya
-pip install streamlit textblob pandas matplotlib wordcloud
-streamlit run app.py.py
-http://localhost:8501  
+3.  cd sentiment-analysis-lemiya
+4. pip install streamlit textblob pandas matplotlib wordcloud
+5. streamlit run app.py.py
+6. http://localhost:8501  
