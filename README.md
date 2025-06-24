@@ -22,9 +22,14 @@ This app analyzes product reviews and classifies them as Positive 😊, Negative
 - `SentimentAnalysis.ipynb` – Jupyter Notebook for analysis
 - `reviews.csv` – Dataset
 - `Project_Report.pdf` – Report file
-- `app.py` – Streamlit app
+- `app.py.py` – Streamlit app
 - `Presentation.pptx` – Project slides
 ## 🚀 How to Run the App
 1. Clone the repository:
    ```bash
    git clone https://github.com/lemiya123/sentiment-analysis-lemiya.git
+2. Navigate to project directory:
+   cd sentiment-analysis-lemiya
+pip install streamlit textblob pandas matplotlib wordcloud
+streamlit run app.py.py
+http://localhost:8501  
