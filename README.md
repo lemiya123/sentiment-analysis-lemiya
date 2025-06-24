@@ -13,3 +13,18 @@ This project analyzes customer product reviews using sentiment analysis in Pytho
 - TextBlob
 - NLTK
 - Matplotlib
+# 🛍️ Sentiment Analysis of Product Reviews
+
+## 📌 Project Overview
+This app analyzes product reviews and classifies them as Positive 😊, Negative 😞, or Neutral 😐 using TextBlob.
+
+## 📂 Files Included
+- `SentimentAnalysis.ipynb` – Jupyter Notebook for analysis
+- `reviews.csv` – Dataset
+- `Project_Report.pdf` – Report file
+- `app.py` – Streamlit app
+- `Presentation.pptx` – Project slides
+## 🚀 How to Run the App
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/lemiya123/sentiment-analysis-lemiya.git
